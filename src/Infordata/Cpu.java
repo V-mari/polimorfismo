@@ -2,7 +2,7 @@ package Infordata;
 import java.util.Date;
 
 
-public class Cpu extends Tecnologico{
+public abstract class Cpu extends Tecnologico{
     private int memoriaPrincipal;
 
     public Cpu(String codigo, String modelo, String paisOrigen, Date fechaFabricacion, Empresa fabricante, int memoriaPrincipal){

@@ -8,12 +8,14 @@ public class Main {
         Producto s4150 = new Impresora("333","4150",30);
         Impresora impresora =(Impresora) s4150;
         System.out.println(impresora);
-        Monitor samsung24 = new Monitor("s24","Samsung",20,"1080p");
-        System.out.println(samsung24);
+        //Monitor samsung24 = new Monitor("s24","Samsung",20,"1080p");
+        //System.out.println(samsung24);
         System.out.println(s4150);
 
-        Monitor monitor = (Monitor) samsung24;
-        System.out.println(monitor);
+        //Monitor monitor = (Monitor) samsung24;
+        //System.out.println(monitor);
+        ((Impresora) s4150).reset();
+        s4150.estado();
 
     }
 }

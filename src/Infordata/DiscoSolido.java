@@ -2,7 +2,7 @@ package Infordata;
 
 import java.util.Date;
 
-public class DiscoSolido extends Tecnologico {
+public abstract class DiscoSolido extends Tecnologico {
     private int capacidad;
 
     public DiscoSolido(String codigo, String modelo, String paisOrigen, Date fechaFabricacion, Empresa fabricante, int capacidad){

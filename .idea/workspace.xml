@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a980014f-5391-43f8-93e5-6fa607b3f849" name="Default Changelist" comment="" />
+    <list default="true" id="a980014f-5391-43f8-93e5-6fa607b3f849" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infordata/Alquiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infordata/Alquiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infordata/Cpu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infordata/Cpu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infordata/DiscoDuro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infordata/DiscoDuro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infordata/DiscoSolido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infordata/DiscoSolido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infordata/Impresora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infordata/Impresora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infordata/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infordata/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infordata/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infordata/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infordata/Tecnologico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infordata/Tecnologico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +23,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1xJaYb15madL3kHl2P1U67K5cpR" />
   <component name="ProjectViewState">
@@ -22,8 +38,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -50,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630075693083</updated>
       <workItem from="1630075696350" duration="6339000" />
+      <workItem from="1631288903965" duration="614000" />
     </task>
     <servers />
   </component>
@@ -57,10 +76,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="895" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1630081678445">
+    <state x="895" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1631289377135">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="895" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1630081678445" />
+    <state x="895" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1631289377135" />
     <state x="774" y="77" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1630081009107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -69,22 +88,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="784" y="161" key="#com.intellij.refactoring.memberPushDown.PushDownDialog/0.0.1366.728@0.0.1366.728" timestamp="1630077089315" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1630081768538">
+    <state width="1322" height="282" key="GridCell.Tab.0.bottom" timestamp="1631289519042">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1630081768538" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1630081768538">
+    <state width="1322" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1631289519042" />
+    <state width="1322" height="282" key="GridCell.Tab.0.center" timestamp="1631289519042">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1630081768538" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1630081768538">
+    <state width="1322" height="282" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1631289519042" />
+    <state width="1322" height="282" key="GridCell.Tab.0.left" timestamp="1631289519042">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1630081768538" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1630081768538">
+    <state width="1322" height="282" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1631289519042" />
+    <state width="1322" height="282" key="GridCell.Tab.0.right" timestamp="1631289519042">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1630081768538" />
+    <state width="1322" height="282" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1631289519042" />
     <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1630079597079">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

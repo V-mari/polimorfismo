@@ -1,6 +1,6 @@
 package Infordata;
 
-public class Producto {
+public abstract class Producto {
     protected String codigo;
     protected String modelo;
     public Producto(String codigo, String modelo){
@@ -19,4 +19,5 @@ public class Producto {
                 "Codigo='" + codigo + '\'' +
                 ", Modelo='" + modelo + '\'';
     }
+    public abstract void estado();
 }

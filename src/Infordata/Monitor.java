@@ -1,6 +1,6 @@
 package Infordata;
 
-public class Monitor extends Alquiler {
+public abstract class Monitor extends Alquiler {
     private String resolucionMaxima;
 
     public Monitor(String codigo, String modelo, double precioHora, String resolucionMaxima){

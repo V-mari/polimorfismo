@@ -1,6 +1,6 @@
 package Infordata;
 
-public class DiscoDuro extends  Alquiler{
+public abstract class DiscoDuro extends  Alquiler{
     private int capacidad;
     public DiscoDuro(String codigo, String modelo, double precioHora, int capacidad){
         super(codigo, modelo, precioHora);

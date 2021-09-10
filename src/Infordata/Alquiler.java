@@ -1,6 +1,6 @@
 package Infordata;
 
-public class Alquiler extends  Producto{
+public abstract class Alquiler extends  Producto{
     protected double precioHora;
     public  Alquiler(String codigo, String modelo, double precioHora){
         super(codigo, modelo);
